@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body{
+	background-image:url('/images/imageBgg.webp');
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+
+*{
+	font-family:'Poppins',sans-serif;
+}
+#addButton{
+	color:#fff;
+	background:#8a00c2;
+	font-weight:500;
+	display:inline-block;
+	padding:10px 20px;
+	border-radius:8px;
+	text-decoration: none;
+}
+h1{
+	color:#8a00c2;
+	font-weight:800;
+	text-align:center;
+}
+tbody{
+	font-weight:700;
+}
+#editButton{
+	color:#fff;
+	background:#7abd91;
+	font-weight:500;
+	display:inline-block;
+	padding:10px 20px;
+	border-radius:8px;
+	text-decoration: none;
+}
+#deleteButton{
+	color:#fff;
+	background:#ff6173;
+	font-weight:500;
+	display:inline-block;
+	padding:10px 20px;
+	border-radius:8px;
+	text-decoration: none;
+}
+

@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.error{
+	color:red;
+}
+body{
+	background-color:#ffafcc;
+}
+#submitButton{
+	color:#fff;
+	background:#ffafcc;
+	font-size: 1.2rem;
+	font-weight:500;
+	margin-top: 1.7rem;
+	border:1px solid #ddd;
+	text-align:center;
+	width:100%;
+}
+*{
+	font-family:'Poppins',sans-serif;
+}
+h1{
+	font-weight:650;
+}
